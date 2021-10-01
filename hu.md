@@ -1,4 +1,5 @@
 # Historias de usuario
+
 ## Cliente vendedor
 El cliente vendedor quiere poder introducir su inmueble, localización exacta, imágenes, una descripción, un precio, y el tipo de precio (el cliente quiere decidir si el precio es o no negociable).
 
