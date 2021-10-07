@@ -5,12 +5,8 @@ Esta aplicación viene a resolver una necesidad de compra-venta de inmuebles, en
 
 El cliente vendedor va a ingresar datos de su inmueble tales como tipo de vivienda, metros cuadrados, antigüedad, si está reformado, número de estancias para posteriormente ofrecerle un precio sugerido de venta en comparación con otro de características similares por la zona, así como predecir momentos teóricos óptimos de venta en base a la tendencia en los últimos 6 meses.
 
-<<<<<<< Updated upstream
-El cliente comprador va a poder establecer criterios de ordenación como qué pisos están bajando o subiendo de precio, o podrá ver cuál es la tendencia de precios actual de la zona, así como predecir momentos teóricos de compra.
-=======
-El cliente comprador va a poder establecer criterios de ordenación como qué pisos están bajando o subiendo de precio, o podrá ver cuál es la tendencia de precios actual de la zona.
+El cliente comprador va a poder establecer criterios de ordenación como qué pisos están bajando o subiendo de precio, o podrá ver cuál es la tendencia de precios actual de la zona, así como predecir momentos teóricos de compra. El cliente comprador va a poder establecer criterios de ordenación como qué pisos están bajando o subiendo de precio, o podrá ver cuál es la tendencia de precios actual de la zona.
 
 
 [Historias de usuario](documentation/hu.md)
 [User Jorneys](documentation/uj.md)
->>>>>>> Stashed changes
