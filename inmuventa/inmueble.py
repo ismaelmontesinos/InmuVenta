@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from datetime import datetime
 
-@dataclass
+@dataclass(frozen=True)
 class Localizacion:
     """ Clase para representar el tipo localización """
     provincia: str 
