@@ -9,21 +9,13 @@ class Localizacion:
     codigo_postal: int
     tipo_via: str
     nombre_via: str
-    bloque: int 
-    planta: int 
-    numero_puerta: int
-    puerta: str 
 
-    def __init__(self, provincia, ciudad, codigo_postal, tipo_via, nombre_via, numero_bloque = None, planta = None, numero_puerta = None, puerta = None):
+    def __init__(self, provincia, ciudad, codigo_postal, tipo_via, nombre_via):
         self.provincia = provincia
         self.ciudad = ciudad
         self.codigo_postal = codigo_postal
         self.tipo_via = tipo_via
         self.nombre_via = nombre_via
-        self.bloque = numero_bloque
-        self.planta = planta
-        self.numero_puerta = numero_puerta
-        self.puerta = puerta
 
 @dataclass(frozen=True)
 class Inmueble:
