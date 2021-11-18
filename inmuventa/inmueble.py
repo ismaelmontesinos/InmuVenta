@@ -25,7 +25,7 @@ class Localizacion:
         self.numero_puerta = numero_puerta
         self.puerta = puerta
 
-@dataclass
+@dataclass(frozen=True)
 class Inmueble:
     """ Clase que representa un inmueble"""
     id: str
